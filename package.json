@@ -1,24 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "name": "absolute-asteroid",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
-  },
-  "dependencies": {
-    "astro": "^3.2.3",
-    "dotenv": "^16.3.1"
-  },
-  "devDependencies": {
-    "vite": "^4.4.11"
-  }
-}
-=======
   "name": "portfolio-ruth",
   "private": true,
   "version": "1.0.0",
@@ -48,4 +28,3 @@
     "vite": "^5.3.1"
   }
 }
->>>>>>> Stashed changes
